@@ -1,2 +1,5 @@
 # Flappy-Bird
-Flappy Bird game using Javascript Canvas
+
+Simple Makeover Flappy Bird game using Javascript Canvas.
+
+Play the Game here https://sarvesh2k.github.io/Flappy-Bird/
