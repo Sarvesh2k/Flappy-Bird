@@ -1,4 +1,4 @@
-# Flappy-Bird
+# Flappy Bird Makeover
 
 Simple Makeover Flappy Bird game using Javascript Canvas.
 
